@@ -120,14 +120,16 @@ button{
     margin-inline:auto;
 }
 
+
+
 .thank-you p.gray{
     background-color:hsla(217, 12%, 63%, 0.141);
-    color: var(--Orange);
-    
+  color: var(--Orange);
     border-radius: 30px;
     padding: .4rem 1rem 0.2rem 1rem;
     text-align: center;
 }
+
 
 h2{
     color: #fff;
